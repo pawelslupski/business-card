@@ -1,3 +1,14 @@
 body {
-  background-color: #2C2141;
+  min-height: 100vh;
+  background-color: #195F70;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  width: 624px;
+  background-color: #C9E4CA;
+  border-radius: 16px;
+  margin: 16px;
 }
